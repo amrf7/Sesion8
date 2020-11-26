@@ -1,0 +1,59 @@
+.navbar {
+    padding: 15px 20%;
+    * {
+        margin: 0 15px;
+    }
+}
+.dropdown-menu {
+    padding: 5px;
+    text-align: left;
+}
+.Ana-comp {
+    * {
+        padding: 0;
+        margin: 5px;
+    }
+    width: 400px;
+}
+.Ana-img-menu {
+    width: 210px;
+    display: flex;
+    flex-wrap: wrap;
+    * {
+        margin: 5px;
+    }
+}
+header {
+    padding: 5%;
+}
+.Ana-jumbo {
+    padding: 0;
+    width: 50%;
+    * {
+        margin: 15px;
+    }
+}
+.Ana-video {
+
+    align-items: center;
+}
+.Ana-Fechas {
+    width: 400px;
+    ul {
+        flex-wrap: wrap;
+        li {
+            margin: 0 15px;
+        }
+    }
+}
+.Ana-tarjeta{
+    text-align: center;
+    margin: 1%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    p {
+        font-size: 1rem;
+    }
+    .subs {
+        font-size: 1.2rem;
+    }
+}

@@ -1,0 +1,68 @@
+.navbar {
+  padding: 15px 20%;
+}
+.navbar * {
+  margin: 0 15px;
+}
+
+.dropdown-menu {
+  padding: 5px;
+  text-align: left;
+}
+
+.Ana-comp {
+  width: 400px;
+}
+.Ana-comp * {
+  padding: 0;
+  margin: 5px;
+}
+
+.Ana-img-menu {
+  width: 210px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.Ana-img-menu * {
+  margin: 5px;
+}
+
+header {
+  padding: 5%;
+}
+
+.Ana-jumbo {
+  padding: 0;
+  width: 50%;
+}
+.Ana-jumbo * {
+  margin: 15px;
+}
+
+.Ana-video {
+  align-items: center;
+}
+
+.Ana-Fechas {
+  width: 400px;
+}
+.Ana-Fechas ul {
+  flex-wrap: wrap;
+}
+.Ana-Fechas ul li {
+  margin: 0 15px;
+}
+
+.Ana-tarjeta {
+  text-align: center;
+  margin: 1%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.Ana-tarjeta p {
+  font-size: 1rem;
+}
+.Ana-tarjeta .subs {
+  font-size: 1.2rem;
+}
+
+/*# sourceMappingURL=main.css.map */
