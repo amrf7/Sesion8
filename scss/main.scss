@@ -1,3 +1,8 @@
+$success: #fd0239;
+.bg-success {
+    background-color: $success !important;
+}
+
 .navbar {
     padding: 15px 20%;
     * {
@@ -13,6 +18,7 @@
         padding: 0;
         margin: 5px;
     }
+    font-size: 0.9rem;
     width: 400px;
 }
 .Ana-img-menu {

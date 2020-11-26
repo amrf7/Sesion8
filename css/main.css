@@ -1,3 +1,7 @@
+.bg-success {
+  background-color: #fd0239 !important;
+}
+
 .navbar {
   padding: 15px 20%;
 }
@@ -11,6 +15,7 @@
 }
 
 .Ana-comp {
+  font-size: 0.9rem;
   width: 400px;
 }
 .Ana-comp * {
