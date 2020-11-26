@@ -3,10 +3,10 @@
 }
 
 .navbar {
-  padding: 15px 20%;
+  padding: 15px 10%;
 }
 .navbar * {
-  margin: 0 15px;
+  margin: 0 5px;
 }
 
 .dropdown-menu {
@@ -33,7 +33,7 @@
 }
 
 header {
-  padding: 5%;
+  padding: 1%;
 }
 
 .Ana-jumbo {
